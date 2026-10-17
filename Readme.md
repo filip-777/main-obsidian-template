@@ -10,11 +10,9 @@ This template was inspired by:
   - The template is removed but watching the course You will get the Idea
 - Kanban for tasks
 
-
-See the article [How I use Obsidian](https://stephango.com/vault) on my site for a detailed explanation of this vault structure.
-
+//TODO Update this section
 ## Get started
 
-1. [Download this vault](https://github.com/kepano/kepano-obsidian/archive/refs/heads/main.zip)
+1. 
 2. Unzip the .zip file to a folder of your choosing
 3. Open Obsidian and create a new vault pointing to that folder
