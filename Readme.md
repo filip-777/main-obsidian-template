@@ -16,3 +16,5 @@ This template was inspired by:
 1. 
 2. Unzip the .zip file to a folder of your choosing
 3. Open Obsidian and create a new vault pointing to that folder
+
+# How to use
